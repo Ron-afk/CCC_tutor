@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CCC1997J/CCC1997J.iml" filepath="$PROJECT_DIR$/CCC1997J/CCC1997J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CCC2015/CCC2015.iml" filepath="$PROJECT_DIR$/CCC2015/CCC2015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CCC2019J/CCC2019J.iml" filepath="$PROJECT_DIR$/CCC2019J/CCC2019J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CCC2021J/CCC2021J.iml" filepath="$PROJECT_DIR$/CCC2021J/CCC2021J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CCC2022J/CCC2022J.iml" filepath="$PROJECT_DIR$/CCC2022J/CCC2022J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CCC2023J/CCC2023J.iml" filepath="$PROJECT_DIR$/CCC2023J/CCC2023J.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CCC_tutor.iml" filepath="$PROJECT_DIR$/.idea/CCC_tutor.iml" />
+    </modules>
+  </component>
+</project>
